@@ -1,6 +1,9 @@
 .clangd
 compile_commands.json
 
+#Dedicated virtual environment
+gsplat_venv/
+
 # Visual Studio Code configs.
 .vscode/
 
